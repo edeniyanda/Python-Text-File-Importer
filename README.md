@@ -12,7 +12,7 @@ This repository contains a script to extract data from a tab-delimited text file
 
 To run the script, use the following command:
 
-python3 Python-Text-Importer.py
+python3 Python-Text-File-Importer.py
 
 # Notes
 
